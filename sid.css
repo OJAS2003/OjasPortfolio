@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: #3b1eb8;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -579,7 +579,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: crimson;
+    color: #3d14ed;
     text-decoration: none;
 }
 footer span a:hover{
