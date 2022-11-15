@@ -568,7 +568,7 @@ footer span a:hover{
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: crimson;
+  color:#203b9b;
   background: none;
 }
 /* footer section styling */
